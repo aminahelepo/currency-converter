@@ -3,7 +3,7 @@ from PIL import Image
 import numpy as np
 from PIL import Image
 
-st.title("My first currenvy app")
+st.title("My first currency app")
 img = Image.open("cur.jpeg")
 st.image(img)
 
